@@ -1,0 +1,69 @@
+[2:27 pm, 25/12/2020] Ballabi Typ: 1. Find out duplicate elements from an array.
+2. Write a program to add, delete,update array elements.
+3. Check whether number given is Armstrong or not===================
+4. Reverse an array
+5.to find factorial of a number using recursion.
+6. Number is negative or positive
+7.find the larger among three no.
+8.print all prime no.
+9.find the factorialof a no.
+10. display multiplication 
+11 find the second element in array in case element with same value .
+12 WAP to implement Fibonacci series
+13. JavaScript Program to Make a Simple Calculator
+14. JavaScript Program to Find the Sum of Natural Numbers
+15. JavaScript Program to Find LCM============
+16. To Find Sum of Natural Numbers Using Recursion
+17.Reverse a number without using inbuilt function
+18. Find sum of all elements of array without using any loop.
+19.(1)Can you declare an array without assigning the size of an array? (2) What is the default value of Array?
+20. Compare 2 array of the same size?
+21.sort an array
+22. Find missing no. Between 1to 10 
+23. Find dublicate no 
+24. Find largest and smallest no In an unsorted array
+25.find duplicate no. In an array
+26.remove duplicate no. In an array
+27. Program for palindrome numbers.
+28.  * * * * *
+       * * * * *
+       * * * * * Using loops concept.
+29. *
+      * * 
+      * * *
+      * * * *
+      * * * * * Using loop concept.
+30.  * * * * *
+       * * * *
+       * * * 
+       * *
+       *.   Using loop concepts
+31. 1
+       1 2
+       1 2 3
+       1 2 3 4
+       1 2 3 4 5 
+using loop concept.
+32.  1 1 1 1 1
+        2 2 2 2 
+        3 3 3 
+        4 4
+        5       using loop concept
+33.  5 5 5 5 5 
+        4 4 4 4 
+        3 3 3 
+        2 2   
+        1      Using loop concept
+34. Find the maximum of 10 numbers
+35. Find the minimum of 10 numbers
+36. Calculate area & circumference of circle for five different values of radius.
+37. To check a character is alphabet or not.
+38. To check whether a year is a leap year.
+39. Can we call a function inside its own block ? Give reason.
+40 . WAP for anonymous function calling JavaScript.
+41. Convert the array into string with separator '/'.
+42 write a program for print array's value with for in loop
+43 Write a program for delete element of array using delete keyword and add the element at same index
+44)Check whether a number is palindrome or not
+45)how to print reverse number 
+46)print square of number
